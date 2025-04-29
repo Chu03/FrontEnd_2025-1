@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(218, 216, 216);
+}
+
+.MainTitle {
+    text-align: center;
+}
+
+.input_Container{
+    margin: 0 auto;
+    width: 250px;
+}
+
+#result {
+    margin: 0 auto;
+    width: 200px;
+}
+
+#search_Btn{
+    background-color: black;
+    color: white;
+}
